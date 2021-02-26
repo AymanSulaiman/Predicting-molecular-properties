@@ -1,0 +1,4 @@
+*.xyz
+*.csv
+data
+.ipynb_checkpoints
